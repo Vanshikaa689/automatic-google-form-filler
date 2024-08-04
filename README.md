@@ -13,7 +13,7 @@ This project automates the process of filling out Google Forms using data extrac
 - **ChromeDriver:** Compatible version with your Chrome browser. [Download ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/).
 
 ## Form
--**Form Used:** Example form [Form](https://docs.google.com/forms/d/e/1FAIpQLScsMrXjtSsg6sCI_zxNiyifWftniEReIi-tJFsKiI5uu3MTmw/viewform).You can use your own form, but update the XPath in the code respectively
+-**Form Used:** Example form [Form](https://docs.google.com/forms/d/e/1FAIpQLScsMrXjtSsg6sCI_zxNiyifWftniEReIi-tJFsKiI5uu3MTmw/viewform). You can use your own form, but update the XPath in the code respectively
  
 ## Setup
 1. **Clone the Repository:**
